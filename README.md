@@ -2,7 +2,7 @@
 ```bash
 git clone https://github.com/Jreyesh26/fhir-demographics.git
 ``` 
-
+#Entorno linux
 # installs nvm (Node Version Manager)
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
