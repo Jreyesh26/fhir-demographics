@@ -16,7 +16,7 @@
   <sl-button type="primary">Nuevo paciente</sl-button>
 </Link>
 <Link to="load">
-  <sl-button type="primary">Cargar pacientes predefinidos</sl-button>
+  <sl-button type="primary">Cargar Datos predefinidos</sl-button>
 </Link>
 
 <h1 class="text-2xl">Registro de pacientes</h1>
