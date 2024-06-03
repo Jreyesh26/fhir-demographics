@@ -1,6 +1,6 @@
 #Primero clonamos el repositorio 
 ```bash
-git clone https://
+git clone [https://](https://github.com/Jreyesh26/fhir-demographics.git)
 ``` 
 
 # installs nvm (Node Version Manager)
